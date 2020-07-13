@@ -1,0 +1,10 @@
+{
+  "Registration":
+      {
+          "myusername_text_name":"fld_username",
+          "email_text_name":"fld_email",
+          "password_text_name":"fld_password",
+          "Confirm_password_text_name":"fld_cpassword",
+          "Addresstype_radio_value":"home"
+      }
+}
